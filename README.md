@@ -1,1 +1,1 @@
-# claude-arbitage-ai
+# claude-arbitrage-ai
